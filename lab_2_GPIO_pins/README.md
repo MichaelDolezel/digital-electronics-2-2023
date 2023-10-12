@@ -115,9 +115,9 @@ A detailed description of working with input/output ports can be found in [ATmeg
 
    | **Version** | **Size [B]** |
    | :-- | :-: |
-   | Ver. 1: Arduino-style |  |
-   | Ver. 2: Registers |  |
-   | Ver. 3: Library functions |  |
+   | Ver. 1: Arduino-style | 508 |
+   | Ver. 2: Registers | 182 |
+   | Ver. 3: Library functions | 182 |
 
 2. Use the datasheet to find out the meaning of the DDRB and PORTB control register values and their combinations. (Let PUD (Pull-up Disable) bit in MCUCR (MCU Control Register) is 0 by default.)
 
